@@ -114,12 +114,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "3c9635fce7b0524a8dd62de8f525b93c78dc240f",
     "author": "KathM00",
     "commit": {
       "date": "2026-08-27T14:04:21.000Z",
       "message": "feat: devolver buzz si es multiplo de 5",
-      "url": "https://github.com/KathM00/FizzBuzz-TDD/commit/HEAD"
+      "url": "https://github.com/KathM00/FizzBuzz-TDD/commit/3c9635fce7b0524a8dd62de8f525b93c78dc240f"
     },
     "stats": {
       "total": 8,
@@ -129,6 +129,25 @@
     },
     "coverage": 100,
     "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "KathM00",
+    "commit": {
+      "date": "2026-08-27T14:07:41.000Z",
+      "message": "feat: devolver buzz si es multiplo de 5",
+      "url": "https://github.com/KathM00/FizzBuzz-TDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 5,
+      "deletions": 1,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 7,
     "failed_tests": 0,
     "conclusion": "success"
   }
