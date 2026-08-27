@@ -57,17 +57,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "af1b77064c3c1f955953096b26e3de27ee1b5783",
     "author": "KathM00",
     "commit": {
       "date": "2026-08-27T13:52:57.000Z",
       "message": "feat: genera fizz en caso",
-      "url": "https://github.com/KathM00/FizzBuzz-TDD/commit/HEAD"
+      "url": "https://github.com/KathM00/FizzBuzz-TDD/commit/af1b77064c3c1f955953096b26e3de27ee1b5783"
     },
     "stats": {
       "total": 9,
       "additions": 8,
       "deletions": 1,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "KathM00",
+    "commit": {
+      "date": "2026-08-27T13:53:35.000Z",
+      "message": "feat: genera fizz en caso de que sea multiplo de 3",
+      "url": "https://github.com/KathM00/FizzBuzz-TDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 1,
+      "additions": 1,
+      "deletions": 0,
       "date": "2026-08-27"
     },
     "coverage": 100,

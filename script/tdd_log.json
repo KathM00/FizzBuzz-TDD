@@ -66,9 +66,15 @@
     "testId": 3
   },
   {
-    "commitId": "HEAD",
+    "commitId": "af1b77064c3c1f955953096b26e3de27ee1b5783",
     "commitName": "feat: genera fizz en caso",
     "commitTimestamp": 1787838779159,
     "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: genera fizz en caso de que sea multiplo de 3",
+    "commitTimestamp": 1787838817539,
+    "testId": 4
   }
 ]
