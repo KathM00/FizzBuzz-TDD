@@ -112,9 +112,15 @@
     "testId": 7
   },
   {
-    "commitId": "HEAD",
+    "commitId": "5f7a6d36f0e5c22ad826e9091754078e62409c6e",
     "commitName": "feat: devolver frizzbuzz si es multiplo de 3 Y 5",
     "commitTimestamp": 1787839799328,
     "testId": 8
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: devolver tambien frizzbuzz si es multiplo de 3 Y 5",
+    "commitTimestamp": 1787839908519,
+    "testId": 9
   }
 ]
