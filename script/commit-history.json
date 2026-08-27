@@ -38,12 +38,12 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "c1d8e405aa8c2e7bbaccaf241c2cede41f53bb56",
     "author": "KathM00",
     "commit": {
       "date": "2026-08-27T13:49:55.000Z",
       "message": "feat: genera fizzbuzz para otro numero que no sigue una regla",
-      "url": "https://github.com/KathM00/FizzBuzz-TDD/commit/HEAD"
+      "url": "https://github.com/KathM00/FizzBuzz-TDD/commit/c1d8e405aa8c2e7bbaccaf241c2cede41f53bb56"
     },
     "stats": {
       "total": 23,
@@ -53,6 +53,25 @@
     },
     "coverage": 100,
     "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "KathM00",
+    "commit": {
+      "date": "2026-08-27T13:52:57.000Z",
+      "message": "feat: genera fizz en caso",
+      "url": "https://github.com/KathM00/FizzBuzz-TDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 8,
+      "deletions": 1,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 4,
     "failed_tests": 0,
     "conclusion": "success"
   }
