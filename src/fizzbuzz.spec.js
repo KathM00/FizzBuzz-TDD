@@ -13,4 +13,7 @@ describe("FizzBuzz", () => {
     expect(fizzbuzz(3)).toEqual("Fizz");
   });
    
+  it("deberia tambien devolver 'Fizz' si es múltiplo de 3", () => {
+    expect(fizzbuzz(6)).toEqual("Fizz");
+  });
 });
