@@ -40,9 +40,15 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "74e8a73ba5f7f89717b91dbddb0c70c7f90ac065",
     "commitName": "feat: Implementar caso de que no siga las reglas",
     "commitTimestamp": 1787838072895,
     "testId": 0
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: Implementar caso de que no siga las reglas",
+    "commitTimestamp": 1787838246735,
+    "testId": 1
   }
 ]

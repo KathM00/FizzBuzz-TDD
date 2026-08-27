@@ -4,3 +4,9 @@ describe('FizzBuzz', () => {
   });
 });
 
+describe('FizzBuzz', () => {
+  it('Deberia generar otro numero que no sigue la regla', () => {
+    expect(fizzBuzz(1)).toEqual(1);
+  });
+});
+

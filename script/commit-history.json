@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "74e8a73ba5f7f89717b91dbddb0c70c7f90ac065",
     "author": "KathM00",
     "commit": {
       "date": "2026-08-27T13:41:11.000Z",
       "message": "feat: Implementar caso de que no siga las reglas",
-      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/74e8a73ba5f7f89717b91dbddb0c70c7f90ac065"
     },
     "stats": {
       "total": 9,
@@ -16,6 +16,25 @@
     "coverage": 100,
     "test_count": 2,
     "failed_tests": 1,
+    "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "KathM00",
+    "commit": {
+      "date": "2026-08-27T13:44:05.000Z",
+      "message": "feat: Implementar caso de que no siga las reglas",
+      "url": "https://github.com/KathM00/FizzBuzz-TDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 6,
+      "deletions": 0,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 3,
+    "failed_tests": 2,
     "conclusion": "failure"
   }
 ]
