@@ -46,9 +46,15 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "c128bb1715bf438e089ee8732ed89e71d0ca3395",
     "commitName": "feat: Implementar caso de que no siga las reglas",
     "commitTimestamp": 1787838246735,
     "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: genera fizzbuzz para otro numero que no sigue una regla",
+    "commitTimestamp": 1787838597433,
+    "testId": 2
   }
 ]

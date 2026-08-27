@@ -1,12 +1,11 @@
-describe('FizzBuzz', () => {
-  it('Deberia devolver el mismo numero si no cumple la regla', () => {
-    expect(fizzBuzz(2)).toEqual(2);
+import fizzbuzz from "./fizzbuzz.js";
+
+describe("FizzBuzz", () => {
+  it("deberia generar el mismo numero si no sigue una regla", () => {
+    expect(fizzbuzz(2)).toEqual("2");
+  });
+
+  it("deberia generar otro numero que no sigue una regla", () => {
+    expect(fizzbuzz(1)).toEqual("1");
   });
 });
-
-describe('FizzBuzz', () => {
-  it('Deberia generar otro numero que no sigue la regla', () => {
-    expect(fizzBuzz(1)).toEqual(1);
-  });
-});
-

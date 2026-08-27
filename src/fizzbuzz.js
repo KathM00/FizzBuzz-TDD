@@ -1,3 +1,5 @@
-function fizzBuzz() {
-    return 2;
+function fizzbuzz(num) {
+  return num + "";
 }
+
+export default fizzbuzz;
